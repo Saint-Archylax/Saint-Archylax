@@ -38,30 +38,36 @@ University of Mindanao · Philippines
 
 # 🖥️ Sample Projects
 
-> Add your project GIFs inside an `assets/projects/` folder, then change the image links below.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>MetaLift Construction Management System</h3>
+      <img src="assets/projects/Construction%20Management%20Preview.gif" width="100%" alt="MetaLift Construction Management System Preview" />
+      <br/><br/>
+      <h3>Gym Membership Website Design</h3>
+      <img src="assets/projects/gym-membership.gif" width="100%" alt="Gym Membership Website Preview" />
+    </td>
+    <td width="35%" valign="top">
+      <h3>Garbage Classification System</h3>
+      <img src="assets/projects/garbage-classification.gif" width="100%" alt="Garbage Classification Project Preview" />
+    </td>
+  </tr>
+</table>
 
-### MetaLift Construction Management System
-
-<img src="assets/projects/Construction%20Management%20Preview.gif" width="700" alt="MetaLift Construction Management System Preview" />
-
-### Gym Membership Website Design
-
-<img src="assets/projects/gym-membership.gif" width="700" alt="Gym Membership Website Preview" />
-
-### Garbage Classification System
-
-<img src="assets/projects/garbage-classification.gif" width="700" alt="Garbage Classification Project Preview" />
 
 ---
 
 # 🏅 Certifications
 
-> Add your certificate images inside an `assets/certifications/` folder, then change the image links below.
+These certifications were awarded through Certiport, a Pearson VUE business.
 
 <p align="center">
-  <img src="assets/certifications/database-certificate.png" width="45%" alt="Database Certificate" />
-  <img src="assets/certifications/cybersecurity-certificate.png" width="45%" alt="Cybersecurity Certificate" />
+  <img src="assets/certifications/database-certificate.png" width="45%" alt="Information Technology Specialist: Databases Certificate" />
+  <img src="assets/certifications/cybersecurity-certificate.png" width="45%" alt="Information Technology Specialist: Cybersecurity Certificate" />
 </p>
+
+- **Information Technology Specialist: Databases** — Certiport / Pearson VUE  
+- **Information Technology Specialist: Cybersecurity** — Certiport / Pearson VUE
 
 ---
 
