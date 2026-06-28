@@ -42,7 +42,7 @@ University of Mindanao · Philippines
 
 ### MetaLift Construction Management System
 
-<img src="assets/projects/metalift.gif" width="700" alt="MetaLift Project Preview" />
+<img src="assets/projects/Construction%20Management%20Preview.gif" width="700" alt="MetaLift Construction Management System Preview" />
 
 ### Gym Membership Website Design
 
